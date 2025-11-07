@@ -52,7 +52,7 @@
 Создание новой ветки:
 
 <p align="center">
-  <img src="screenshots/6.jpg" alt="Новая ветка">
+  <img src="screenshots/6.JPG" alt="Новая ветка">
   <br>
   <em>Рисунок 6: Создание новой ветки new-feature</em>
 </p>
@@ -120,7 +120,7 @@
 8. История операций в форматированном виде
 
 <p align="center">
-  <img src="screenshots/15.jpg" alt="История операций">
+  <img src="screenshots/15.JPG" alt="История операций">
   <br>
   <em>Рисунок 15: История коммитов в форматированном виде</em>
 </p>
